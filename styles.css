@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fdmzh9jvg7dj01.jpg");
+  background-image: url(https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fdmzh9jvg7dj01.jpg);
   font-family: sans-serif;
   padding: 20px;
 }
