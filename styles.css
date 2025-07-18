@@ -23,10 +23,13 @@ h1, h2, p {
 }
 
 .menu {
-  width: 50%;
+  width: 80%;
   background-color: burlywood;
-  margin-top: auto;
-  margin-bottom: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 20px;
   max-width: 500px;
 }
