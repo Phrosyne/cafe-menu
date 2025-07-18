@@ -1,9 +1,12 @@
 body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
-  min-height: 100vh;
-  font-family: sans-serif;
-  padding: 20px;
 
+  box-sizing: border-box;
+  height: 100vh;
+  padding: 20px;
+  
+  font-family: sans-serif;
+  
   display: flex;
   justify-content: center;
   align-items: center;
