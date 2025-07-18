@@ -2,6 +2,10 @@ body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
   padding: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
@@ -27,9 +31,6 @@ h1, h2, p {
   background-color: burlywood;
   /* margin-left: auto;
   margin-right: auto; */
-  display: flex;
-  justify-content: center;
-  align-items: center;
   padding: 20px;
   max-width: 500px;
 }
