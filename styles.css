@@ -25,7 +25,8 @@ h1, h2, p {
 .menu {
   width: 80%;
   background-color: burlywood;
-  margin: auto;
+  margin-top: auto;
+  margin-bottom: auto;
   padding: 20px;
   max-width: 500px;
 }
