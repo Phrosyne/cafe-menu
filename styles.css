@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fdmzh9jvg7dj01.jpg);
+  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
   padding: 20px;
 }
@@ -25,8 +25,7 @@ h1, h2, p {
 .menu {
   width: 80%;
   background-color: burlywood;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   padding: 20px;
   max-width: 500px;
 }
